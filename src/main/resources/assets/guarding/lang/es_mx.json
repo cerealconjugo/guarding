@@ -1,0 +1,19 @@
+{
+	"item.guarding.netherite_shield": "Escudo de netherita",
+    "enchantment.guarding.barbed": "Púas",
+    "enchantment.guarding.pummeling": "Apalear",
+    "enchantment.guarding.barbed.description": "Permite Espinas en el escudo",
+    "enchantment.guarding.pummeling.description": "Aumenta el retroceso al hacer un bloqueo perfecto",
+    "subtitle.guarding.item.shield.parry": "Escudo bloquea perfectamente",
+    "subtitle.guarding.item.netherite_shield.block": "Escudo bloquea",
+    "subtitle.guarding.item.netherite_shield.break": "Escudo rompiéndose",
+    "subtitle.guarding.item.netherite_shield.parry": "Escudo bloquea perfectamente",
+    "subtitle.guarding.item.netherite_shield.equip": "Herramienta equipada",
+
+    "advancements.guarding.story.decorate_shield_with_banner.title": "¡Protección con estilo!",
+    "advancements.guarding.story.decorate_shield_with_banner.desc": "Decora un escudo con un estandarte",
+    "advancements.guarding.story.kill_mob_with_own_arrow.title": "¡Bloquea esto! Novato",
+    "advancements.guarding.story.kill_mob_with_own_arrow.desc": "Mata a un esqueleto o a un saqueador con su propia flecha al bloquearla.",
+    "advancements.guarding.nether.obtain_netherite_shield.title": "¡En guardia!",
+    "advancements.guarding.nether.obtain_netherite_shield.desc": "Usa un lingote de netherita para mejorar un escudo."
+}
